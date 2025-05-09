@@ -92,7 +92,7 @@ Space Complexity: O(n log n)
 
 ## 🧑‍💻 Author
 
-**Hafiz Tanzeel Shamshad**
+**ABDULLAH FAROOQ**
 MERN Stack Web Developer | C++ Programmer | Machine Learning Enthusiast
 
 [LinkedIn](https://www.linkedin.com/in/tanzeel-shamshad-8680a8309/)
